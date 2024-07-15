@@ -33,5 +33,14 @@ enum enMainMenuePermissions { eAll = -1, pListClients = 1, pAddNewClient = 2, pD
 
 
 if user has Permissions=1  that means he can only show all cliens
+
+
+
+
 if user has Permissions=5  that means he can only show all cliens and DeleteClient
+
+
+
+
+
 if user has Permissions=-1  that means he can do every thing he want
