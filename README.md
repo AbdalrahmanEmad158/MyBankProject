@@ -44,3 +44,20 @@ if user has Permissions=5  that means he can only show all cliens and DeleteClie
 
 
 if user has Permissions=-1  that means he can do every thing he want
+
+
+
+
+
+
+
+hints :
+
+1: you can not add 2 user have the same User name 
+
+
+
+2: you can not delete user Admin
+
+
+3:  in user you can update password and Permissions  only not user name
