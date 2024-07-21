@@ -60,11 +60,11 @@ hints :
 2: you can not delete user Admin
 
 
-3:  in user you can update password and Permissions  only not user name
+3:  in user you can update password and Permissions only   not user name
 
 
 
-4:  you can not add 2 client  have the same pin code 
+4:  you can not add 2 client  have the same Account Number
 
 
-5: in client you can update every thing except pin code
+5: in client you can update every thing except Account Number
